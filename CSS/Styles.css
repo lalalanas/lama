@@ -38,19 +38,5 @@ ul{ color: rgb(39, 54, 56);
 
 a{color: rgb(21, 33, 143);
 
-.georgia{font-family:Georgia, 'Times New Roman', Times, serif ;}
-.color{ color:  rgb(39, 54, 56);}
-#dotted{
-    border-top-style: dotted;
-    color:rgba(72, 100, 88, 0.438); }
-    a:hover{color: rgb(98, 180, 98);}
-form:active{color: rgba(72, 100, 88, 0.438);}
-#button{color:rgb(39, 54, 56);
-    border:rgba(72, 100, 88, 0.438); 
-    border-style:inherit;
-    border-top-style: groove;
-}
-input:focus{color: rgb(39, 54, 56);}
-    
-#colour{color: rgb(21, 33, 143);}
+
   
