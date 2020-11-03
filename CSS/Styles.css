@@ -5,7 +5,7 @@ body { background-color: rgb(197, 221, 221);
     font-family:Georgia, 'Times New Roman', Times, serif ;
     font-style: italic ;
 
-font-variant: normal ;
+    font-variant: normal ;}
 
     p{color: rgb(39, 54, 56);}
 
@@ -13,11 +13,9 @@ hr { border-style: none;
     border-color: rgba(72, 100, 88, 0.438);
     border-width: 10px ;
     border-top-style:dotted ;
-    width: 5%;
+    width: 5%;}
 
-
-}
-hr{border-color:  rgba(72, 100, 88, 0.438);
+hr{border-color:  rgba(72, 100, 88, 0.438);}
 h1{color:red;}
 h1 {color: rgb(39, 54, 56);
     
