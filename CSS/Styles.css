@@ -1,4 +1,12 @@
 body { background-color: rgb(197, 221, 221);
+    
+    font: weight 10%; ;
+    font-size:16px ;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-style: italic ;
+color: rgb(39, 54, 56);;
+font-variant: normal ;
+
 
 }
 hr { border-style: none;
@@ -9,6 +17,7 @@ hr { border-style: none;
 
 
 }
+hr{border-color:  rgba(72, 100, 88, 0.438);
 h1{color:red;}
 h1 {color: rgb(39, 54, 56);
     
@@ -28,15 +37,21 @@ ul{ color: rgb(39, 54, 56);
 a{color: rgb(21, 33, 143);
 
 }
-p{font: weight 10%; ;
-    font-size:16px ;
-    font-family:Georgia, 'Times New Roman', Times, serif ;
-    font-style: italic ;
-color: rgb(39, 54, 56);;
-font-variant: normal ;
-}
+
+
 .georgia{font-family:Georgia, 'Times New Roman', Times, serif ;}
 .color{ color:  rgb(39, 54, 56);}
 #dotted{
     border-top-style: dotted;
     color:rgba(72, 100, 88, 0.438); }
+    a:hover{color: rgb(98, 180, 98);}
+form:active{color: rgba(72, 100, 88, 0.438) ;}
+#button{color:rgb(39, 54, 56);
+    border:rgba(72, 100, 88, 0.438); 
+    border-style:inherit;
+    border-top-style: groove;
+}
+input:focus{color: rgb(39, 54, 56);}
+    
+#colour{color: rgb(21, 33, 143);}
+  
