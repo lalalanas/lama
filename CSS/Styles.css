@@ -6,9 +6,109 @@ body {
     font-style: italic ;
 color: rgb(39, 54, 56);
 font-variant: normal ;
+text-align: center;
+margin: 0px;
+}
 
+.contact{ width: 200px;
+height: 40px;
+margin-top: 70px;
+margin-left:60px ;
+position: absolute;
+    background-color: none;
+    border: solid ;
+    border-color: rgb(39, 54, 56);
+    border-radius: 100px ;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    display: inline-block;
+    color: rgb(39, 54, 56);
+    padding-top: 24px  ;
+    text-decoration: none;
+    
+    
+}
+.main{
+    
+    display: flex;
+    position: relative;
+    width: 100%;
 
 }
+.maintext{display: block;
+    margin-top: 400px;
+    margin-left: 840px;
+position: absolute;
+width: 400px;
+}
+.maintext2{
+    display: block;
+    margin-top: 520px;
+    margin-left: 950px;
+position: absolute;
+width: 400px;
+}
+.maintext3{
+display: block;
+position: absolute;
+margin-top: 960px;
+margin-left: 330px;
+width: 900px;
+}
+
+.list{display: inline-block;
+    margin-top: 580px;
+    margin-left: 950px;
+position: absolute;
+width: 400px;
+
+}
+.title{
+    font-size: 50px;
+    display: block;
+    margin-top: 860px;
+    margin-left: 40%;
+position: absolute
+
+}
+
+.mainimage{
+    padding-bottom: 50px;
+    margin-top: 150px;
+    margin-left: 100px;
+    width: 700px;
+    display: block;
+    position: absolute;
+}
+
+
+.imagine{max-width: 1000px;
+    align-self: center ;
+    
+    position: absolute;
+    
+margin-bottom: 0px;
+margin-left: 600px;
+display: block;
+
+}
+.h1{color: rgb(39, 54, 56) ;
+    font-size: 50px;
+margin-top: 380px;
+position: absolute;
+margin-left: 60px;
+display:block ;
+height: 100px;
+}
+  
+.headertext{
+    position: absolute;
+    display:block;
+width: 400px;
+margin-top: 530px;
+margin-left: 160px;}
+
 hr { border-style: none;
     border-color: rgba(20, 133, 84, 0.438);
     border-width: 10px ;
@@ -19,33 +119,46 @@ hr { border-style: none;
 }
 hr{border-color:  rgba(72, 100, 88, 0.438);
 
-}
 
-h1{color:red;}
-h1 {color: rgb(39, 54, 56);
+}
+#header{position: relative;
+    overflow: hidden;
+  display: flex;
+    height: 700px;
+    width: 100%;
+    background-color: white;
+    margin-top: 0px;
+}
+.footer{
     
-
+    position: relative;
+    height: 400px;
+    width: 100%;
+    background-color:rgb(39, 54, 56) ;
+    margin-top: 1200px;
 }
+
+
+
 h2{ color: rgb(39, 54, 56);
     
    
 
 }
 
-
-ul{ color: rgb(39, 54, 56);
     
-
-}
 a{color: rgb(21, 33, 143);
+    text-decoration: none;
+
 
 }
+
 
 .georgia{font-family:Georgia, 'Times New Roman', Times, serif ;}
 .color{ color:  rgb(39, 54, 56);}
 #dotted{
     border-top-style: dotted;
-    color:rgba(72, 100, 88, 0.438); 
+    color:rgba(72, 100, 88, 0.438); ;
 }
 a:hover{color: rgb(98, 180, 98);}
 form:active{color: rgba(72, 100, 88, 0.438) ;}
@@ -57,3 +170,11 @@ form:active{color: rgba(72, 100, 88, 0.438) ;}
 input:focus{color: rgb(39, 54, 56);}
     
 #colour{color: rgb(21, 33, 143);}
+.footera{color: lavender;
+font-size: 30px;
+position: relative;
+}
+.footera2{color: lavender;
+    font-size: 30px;
+    position: relative;
+    }
